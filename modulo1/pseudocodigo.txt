@@ -1,0 +1,9 @@
+pseudocodigo
+
+1. Inicio
+2. Leia n #entrada
+3. digito1 = n-1 #processamento
+4. digito2 = 10-n #processamento
+5. resultado = (digito1x10) + digito2 #processamento
+6. Imprima resultado #saida
+7. Fim

@@ -1,0 +1,7 @@
+dissertativa
+
+1. Leia do teclado e armazene n #entrada
+2. Aplique a operação n-1 e armazene em digito1 #processamento
+3. Aplique a operação 10-n e armazene em digito2 #processamento
+4. Faça a operação (digito1x10) + digito2 e armazene em resultado #processamento
+5. Imprima na tela resultado #saida
